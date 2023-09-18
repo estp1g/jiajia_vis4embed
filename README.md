@@ -5,4 +5,3 @@
 * openai ada
 ## Dependency
 federpy 0.8.0
-

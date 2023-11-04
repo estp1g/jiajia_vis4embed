@@ -5,8 +5,8 @@ This is the visualization of embedding for news. We utilize [feder](https://gith
 federpy 0.8.0
 
 ## Contents
-├── embed_idx --> (Indices of the embeddings obtained by faiss/hnswlib with different embeddings methods)
-├── feder.ipynb --> (Visualize a random vector of BERT/m3e/openai embeddings of news which are processed by faiss/hnswlib)
+├── embed_idx --> (Indices of the embeddings obtained by faiss/hnswlib with different embeddings methods)<br />
+├── feder.ipynb --> (Visualize a random vector)<br />
 └── searchview_byID.ipynb --> (Visualize a random vector by vector ID)
 
 For more information of search functions, you can read source codes of [federpy.py](https://github.com/zilliztech/feder/blob/main/federpy/src/federpy/federpy.py)

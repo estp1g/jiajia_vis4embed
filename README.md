@@ -1,5 +1,5 @@
 # jiajia_vis4embed
-This is the visualization of embedding for news. We utilize [feder](https://github.com/zilliztech/feder) to visualize the news embeddings. The news are embedded by 3 methods, BERT, m3e and openai ada. The embeddings firstly are processed by [faiss](https://github.com/facebookresearch/faiss) and then visualized. As a by-product, we also tried to visualize the news embeddings processed by [hnswlib](https://github.com/nmslib/hnswlib).
+This is the visualization of embedding for news. We utilize [feder](https://github.com/zilliztech/feder) to visualize the news embeddings. The news are embedded by 3 methods: wwm(bert), m3e and openai ada. The embeddings firstly are processed by [faiss](https://github.com/facebookresearch/faiss) and then visualized. As a by-product, we also tried to visualize the news embeddings processed by [hnswlib](https://github.com/nmslib/hnswlib).
 
 ## Dependency (only visualization part)
 federpy 0.8.0
